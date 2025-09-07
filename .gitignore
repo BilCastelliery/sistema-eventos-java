@@ -1,0 +1,9 @@
+# Ignore build e IDE files
+/bin/
+/out/
+/target/
+*.class
+*.iml
+.idea/
+*.log
+events.data
